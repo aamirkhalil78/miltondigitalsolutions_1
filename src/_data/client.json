@@ -1,0 +1,15 @@
+{
+  "name": "Milton Web Designs",
+  "email": "tech@jessicaross.ca",
+  "phone": "416-731-9684",
+  "phoneFormatted": "(416) -731-9684",
+  "address": {
+    "lineOne": "First Address Line",
+    "lineTwo": "Second Address Line, If Needed",
+    "city": "Milton",
+    "county": "ON",
+    "postcode": "L9T 9V5",
+    "mapLink": "https://goo.gl/maps/7tbmAw1FhUxVkXKe9"
+  },
+  "domain": "www.miltondigitalsolutions.com"
+}
